@@ -1,0 +1,1 @@
+# Render-ready Penny Options Scout backend placeholder
